@@ -14,7 +14,7 @@
 <a href="https://twitter.com/abhaykdhuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaykdhuriya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhaykumar619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaykumar619" height="30" width="40" /></a>
 <a href="https://instagram.com/meabhayk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meabhayk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhay kumar dhuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay kumar dhuriya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/BCA_20706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay kumar dhuriya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
