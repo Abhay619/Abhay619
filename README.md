@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar Dhuriya</h1>
 <h3 align="center">A passionate frontend and python developer from India</h3>
 
-- 🌱 I’m currently learning **python and nodejs**
+- 🌱 I’m currently learning **Full Stack Development and MERN STACK**
 
 - 💬 Ask me about **C++, JS and Python**
 
