@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhayk6190@gmail.com**
 
-- ⚡ Fun fact **I think dev looks cool before my name.**
+- ⚡ Fun fact **If the code doesn't bother you, don't bother it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
