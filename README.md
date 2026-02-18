@@ -90,3 +90,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
+
+<h2></h2>
+
+<p align="center">
+  <img src="footer-img.gif" alt="Abhay-Banner" width="100%" />
+</p>
+
+<h2></h2>
