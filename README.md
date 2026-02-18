@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" alt="Abhay Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Abhay Kumar Dhuriya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
