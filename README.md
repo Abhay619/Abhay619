@@ -94,7 +94,7 @@
 <h2></h2>
 
 <p align="center">
-  <img src="footer-img.gif" alt="Abhay-Banner" width="100%" />
+  <img src="footer-img.jpg" alt="Abhay-Banner" width="100%" />
 </p>
 
 <h2></h2>
