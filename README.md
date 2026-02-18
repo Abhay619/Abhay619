@@ -62,9 +62,12 @@
 
 <h2 align="center">📊 Github Stats</h2>
 
+<div align="center"> 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay619&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhay619&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay619&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay619&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhay619&theme=monokai&utcOffset=6)  
+</div>
 
 <br>
 
