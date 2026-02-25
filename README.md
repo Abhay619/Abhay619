@@ -55,6 +55,9 @@
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=c,cpp,bootstrap,docker,html,css,javascript,git,github,notion,npm,express,nodejs,python,powershell,bash,mysql,postgres,react,tailwind,ubuntu,linux" />
   </a>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=powershell,bash,mysql,postgres,react,tailwind,ubuntu,linux" />
+  </a>
 </div>
 
 <br>
