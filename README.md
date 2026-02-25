@@ -43,7 +43,7 @@
 </a>
 <a href="mailto:abhayk6190@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /> </a>
-</a href="https://leetcode.com/u/Abhay619" style="text-decoration: none;">
+<a href="https://leetcode.com/u/Abhay619" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /> </a>
 </p>
 
